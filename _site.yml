@@ -1,0 +1,14 @@
+name: "Natalie Boychuk"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<nab2194@cumc.columbia>
+    - icon: fa-github fa-lg
+      href: http://github.com/nab2194/
+output:
+  html_document:
+    theme: journal
