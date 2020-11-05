@@ -5,6 +5,10 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Relevant Coursework"
+      href: coursework.html
     - icon: fa-envelope fa-lg
       href: mailto:<nab2194@cumc.columbia>
     - icon: fa-github fa-lg
@@ -12,3 +16,4 @@ navbar:
 output:
   html_document:
     theme: journal
+    

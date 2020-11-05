@@ -1,0 +1,13 @@
+---
+title: "Relevant Coursework"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+P8105: Data Science I 
+
+P8120: Analysis of Categorical Data 
+
+P8438: Design and Conduct of Observational Epidemiology Studies 
